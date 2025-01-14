@@ -1,7 +1,7 @@
 # Relatório de Business Intelligence - Bootcamp DIO
 
 ## Descrição
-Projeto desenvolvido no Bootcamp "Suzano - Análise de Dados com Power BI". Utilizando **Power BI**, o relatório analisa dados financeiros e comerciais, explorando vendas, lucros e desempenho de produtos, segmentos, países e períodos. Este projeto demonstra como ferramentas de Business Intelligence podem transformar dados em insights para tomada de decisão.
+Projeto desenvolvido no Bootcamp "Suzano - Análise de Dados com Power BI". Utilizando **Power BI**, o relatório analisa dados financeiros e comerciais, explorando vendas, lucros e desempenho de produtos, segmentos, países e períodos.
 
 ## Funcionalidades
 - **Análise de Vendas**:
